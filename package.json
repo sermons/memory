@@ -1,7 +1,7 @@
 {
   "name": "@sermons/memory",
   "repository": "sermons/memory",
-  "description": "A template for Reveal.js-based presentations",
+  "description": "Bible memory verses in Chinese and English",
   "keywords": ["slides", "memory", "talks", "ppt"],
   "version": "1.2.4",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
