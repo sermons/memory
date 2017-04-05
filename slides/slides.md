@@ -1,4 +1,4 @@
-# <span class="zh">耶和華是我的牧者， <br/> 我必不致缺乏</span>
+# <span class="zh">耶和華 是 我的 牧者， <br/> 我 必不致 缺乏</span>
 
 <div class="caption">
 詩篇 23:1 (CUV)
@@ -6,7 +6,7 @@
 
 ---
 
-# The Lord is my shepherd; <br/> I shall not want
+# The Lord is <br/> my shepherd; <br/> I shall not want
 
 <div class="caption">
 Psalm 23:1 (KJV)
