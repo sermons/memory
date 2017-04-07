@@ -1,4 +1,4 @@
-# <span class="zh">耶和華 是 <br/> 我的 牧者， <br/> 我 必不致 缺乏</span>
+# <span class="zh">耶和華 是 <br/> 我的 牧者， <br/> 我必 不致 缺乏</span>
 
 <div class="caption">
 詩篇 23:1 (CUV)
