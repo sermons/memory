@@ -26,7 +26,7 @@ Psalm 23:2a (NASB)
 </div>
 
 ---
-# <span class="zh">領我 在 可安歇 的 水邊 。</span>
+# <span class="zh">領我 在 <br/>可安歇 的水邊 。</span>
 
 <div class="caption">
 詩篇 23:2b (CUV)
