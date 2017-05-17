@@ -55,15 +55,9 @@ Psalm 23:3a (NASB)
 
 ---
 # <span class="zh">為自己 的名 <br/> 引導我 走義路。</span>
-
-<div class="caption">
-詩篇 23:3b (CUV)
-</div>
-
----
 # He guides me in the paths of righteousness
-# For His name’s sake.
+# for His name’s sake.
 
 <div class="caption">
-Psalm 23:3b (NASB)
+詩篇 Psalm 23:3b (CUV/NASB)
 </div>
