@@ -38,3 +38,32 @@ Psalm 23:2a (NASB)
 <div class="caption">
 Psalm 23:2b (NASB)
 </div>
+
+---
+# <span class="zh">他使 我的 <br/> 靈魂 甦醒，</span>
+
+<div class="caption">
+詩篇 23:3a (CUV)
+</div>
+
+---
+# He restores my soul;
+
+<div class="caption">
+Psalm 23:3a (NASB)
+</div>
+
+---
+# <span class="zh">為自己 的名 <br/> 引導我 走義路。</span>
+
+<div class="caption">
+詩篇 23:3b (CUV)
+</div>
+
+---
+# He guides me in the paths of righteousness
+# For His name’s sake.
+
+<div class="caption">
+Psalm 23:3b (NASB)
+</div>
