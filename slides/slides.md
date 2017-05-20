@@ -27,30 +27,18 @@ Psalm 23:2a (NASB)
 
 ---
 # <span class="zh">領我 在 <br/>可安歇 的水邊 。</span>
-
-<div class="caption">
-詩篇 23:2b (CUV)
-</div>
-
----
 # He leads me beside quiet waters.
 
 <div class="caption">
-Psalm 23:2b (NASB)
+詩篇 Psalm 23:2b (CUV/NASB)
 </div>
 
 ---
 # <span class="zh">他使 我的 <br/> 靈魂 甦醒，</span>
+# He restores my soul
 
 <div class="caption">
-詩篇 23:3a (CUV)
-</div>
-
----
-# He restores my soul;
-
-<div class="caption">
-Psalm 23:3a (NASB)
+詩篇 Psalm 23:3a (CUV/NASB)
 </div>
 
 ---
