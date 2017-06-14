@@ -13,16 +13,10 @@ Psalm 23:1 (NASB)
 
 ---
 # <span class="zh">他使我 躺臥 <br/>在 青草地上，</span>
-
-<div class="caption">
-詩篇 23:2a (CUV)
-</div>
-
----
 # He makes me lie down in green pastures;
 
 <div class="caption">
-Psalm 23:2a (NASB)
+詩篇 Psalm 23:2a (CUV/NASB)
 </div>
 
 ---
