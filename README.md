@@ -3,7 +3,7 @@
 
 [![Build status](https://travis-ci.org/sermons/memory.svg)](https://travis-ci.org/sermons/memory)
 [![Node deps](https://david-dm.org/sermons/memory.svg)](https://david-dm.org/sermons/memory)
-[![Node devDeps](https://david-dm.org/sermons/memory/dev-status.svg)](https://david-dm.org/sermons/memory#info=devDependencies)
+[![Node devDeps](https://david-dm.org/sermons/memory/dev-status.svg)](https://david-dm.org/sermons/memory?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
