@@ -7,7 +7,7 @@
     "memorization",
     "ppt"
   ],
-  "version": "1.5.1",
+  "version": "1.5.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "memory.seanho.com",
@@ -47,6 +47,10 @@
     ],
     "js": [
       {
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js",
+        "integrity": "sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw="
+      },
+      {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.min.js",
         "integrity": "sha256-+09kLhwACKXFPDvqo4xMMvi4+uXFsRZ2uYGbeN1U8sI="
       },
@@ -68,7 +72,8 @@
     "grunt-build-control": "^0.7.1",
     "grunt-coffeelint": "^0.0.16",
     "coffeelint": "^1.16.0",
-    "grunt-git": "^1.0.5"
+    "grunt-git": "^1.0.6",
+    "decktape": "^2.0.2"
   },
   "scripts": {
     "postinstall": "grunt install",
