@@ -29,7 +29,7 @@ Psalm 23:1 (NASB)
 
 ---
 # <span class="zh">他使 我的 <br/> 靈魂 甦醒，</span>
-# He restores my soul
+# He restores <br/> my soul
 
 <div class="caption">
 詩篇 Psalm 23:3a (CUV/NASB)
@@ -43,3 +43,15 @@ Psalm 23:1 (NASB)
 <div class="caption">
 詩篇 Psalm 23:3b (CUV/NASB)
 </div>
+
+---
+# <span class="zh"> 我雖然行過死蔭的幽谷，</span>
+# Even though I walk through the valley of the shadow of death,
+
+---
+# <span class="zh"> 也不怕遭害，因為你與我同在，</span>
+# I fear no evil, for You are with me;
+
+---
+# <span class="zh"> 你的杖、你的竿都安慰我。</span>
+# Your rod and Your staff, they comfort me.
