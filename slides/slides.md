@@ -37,8 +37,8 @@ Psalm 23:1 (NASB)
 
 ---
 # <span class="zh">為自己 的名 <br/> 引導我 走義路。</span>
-# He guides me in the paths of righteousness
-# for His name’s sake.
+## He guides me in the paths of righteousness
+## for His name’s sake.
 
 <div class="caption">
 詩篇 Psalm 23:3b (CUV/NASB)
@@ -46,12 +46,24 @@ Psalm 23:1 (NASB)
 
 ---
 # <span class="zh"> 我雖然行過死蔭的幽谷，</span>
-# Even though I walk through the valley of the shadow of death,
+## Even though I walk through the valley of the shadow of death,
+
+<div class="caption">
+詩篇 Psalm 23:4a (CUV/NASB)
+</div>
 
 ---
 # <span class="zh"> 也不怕遭害，因為你與我同在，</span>
 # I fear no evil, for You are with me;
 
+<div class="caption">
+詩篇 Psalm 23:4b (CUV/NASB)
+</div>
+
 ---
 # <span class="zh"> 你的杖、你的竿都安慰我。</span>
 # Your rod and Your staff, they comfort me.
+
+<div class="caption">
+詩篇 Psalm 23:4c (CUV/NASB)
+</div>
