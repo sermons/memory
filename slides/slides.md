@@ -37,7 +37,7 @@ Psalm 23:1 (NASB)
 
 ---
 # <span class="zh">為自己 的名 <br/> 引導我 走義路。</span>
-## He guides me <br/> in the paths of righteousness <br/> for His name’s sake.
+## He guides me in <br/> the paths of righteousness <br/> for His name’s sake.
 
 <div class="caption">
 詩篇 Psalm 23:3b (CUV/NASB)
