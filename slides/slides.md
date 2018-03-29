@@ -1,5 +1,7 @@
 # <span class="zh">耶和華 是 <br/> 我的 牧者， <br/> 我必 不致 缺乏</span>
 
+[Yehehua shi wo de muzhe, wo bi bu zhi quefa](# "secret")
+
 [詩篇 23:1 (CUV)](# "caption")
 
 ---
