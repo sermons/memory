@@ -50,3 +50,19 @@
 # Your rod <br/> and Your staff, <br/> they comfort me.
 
 [詩篇 Psalm 23:4c (CUV/NASB)](# "caption")
+
+---
+## 在 我 敵 人 面 前 ，<br> 你 為 我 擺 設 筵 席 ；
+## You prepare a table before me <br> in the presence of my enemies;
+
+---
+## 你 用 油 膏 了 我 的 頭 ， <br> 使 我 的 福 杯 滿 溢 。
+## You have anointed my head with oil; <br> My cup overflows.
+
+---
+## 我 一 生 一 世 必 有 <br> 恩 惠 慈 愛 隨 著 我 ；
+## Surely goodness and loving kindness <br> will follow me all the days of my life,
+
+---
+## 我 且 要 住 在 耶 和 華 的 殿 中 ， <br> 直 到 永 遠 。
+## And I will dwell in the house of the Lord forever.
