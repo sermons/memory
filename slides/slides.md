@@ -52,17 +52,17 @@
 [詩篇 Psalm 23:4c (CUV/NASB)](# "caption")
 
 ---
-## 在 我 敵 人 面 前 ，<br> 你 為 我 擺 設 筵 席 ；
+## 在我敵人面前，<br> 你為我擺設筵席；
 ## You prepare a table before me <br> in the presence of my enemies;
 
 ---
-## 你 用 油 膏 了 我 的 頭 ， <br> 使 我 的 福 杯 滿 溢 。
+## 你用油膏了我的頭， <br> 使我的福杯滿溢。
 ## You have anointed my head with oil; <br> My cup overflows.
 
 ---
-## 我 一 生 一 世 必 有 <br> 恩 惠 慈 愛 隨 著 我 ；
+## 我一生一世必有 <br> 恩惠慈愛隨著我；
 ## Surely goodness and loving kindness <br> will follow me all the days of my life,
 
 ---
-## 我 且 要 住 在 耶 和 華 的 殿 中 ， <br> 直 到 永 遠 。
+## 我且要住在 <br> 耶和華的殿中， <br> 直到永遠。
 ## And I will dwell in the house of the Lord forever.
