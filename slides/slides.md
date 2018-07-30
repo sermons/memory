@@ -31,19 +31,19 @@
 [詩篇 23:4c (CUV)](# "caption")
 
 ***
-## <span class="zh">在我敵人面前，<br> 你為我擺設筵席；</span>
+# <span class="zh">在我敵人面前，<br> 你為我擺設筵席；</span>
 [詩篇 23:5a (CUV)](# "caption")
 
 ***
-## <span class="zh">你用油膏了我的頭，<br> 使我的福杯滿溢。</span>
+# <span class="zh">你用油膏了我的頭，<br> 使我的福杯滿溢。</span>
 [詩篇 23:5b (CUV)](# "caption")
 
 ***
-## <span class="zh">我一生一世必有 <br> 恩惠慈愛隨著我；</span>
+# <span class="zh">我一生一世必有 <br> 恩惠慈愛隨著我；</span>
 [詩篇 23:6a (CUV)](# "caption")
 
 ***
-## <span class="zh">我且要住在 <br> 耶和華的殿中， <br> 直到永遠。</span>
+# <span class="zh">我且要住在 <br> 耶和華的殿中， <br> 直到永遠。</span>
 [詩篇 23:6b (CUV)](# "caption")
 
 ---
@@ -63,11 +63,11 @@
 [Psalm 23:3a (NASB)](# "caption")
 
 ***
-## He guides me in <br/> the paths of righteousness <br/> for His name’s sake.
+# He guides me in <br/> the paths of righteousness <br/> for His name’s sake.
 [Psalm 23:3b (NASB)](# "caption")
 
 ***
-## Even though <br/> I walk through the valley <br/> of the shadow of death,
+# Even though <br/> I walk through the valley <br/> of the shadow of death,
 [Psalm 23:4a (NASB)]
 
 ***
@@ -79,17 +79,17 @@
 [Psalm 23:4c (NASB)](# "caption")
 
 ***
-## You prepare a table before me <br> in the presence of my enemies;
+# You prepare a table before me <br> in the presence of my enemies;
 [Psalm 23:5a (NASB)](# "caption")
 
 ***
-## You have anointed my head with oil; <br> My cup overflows.
+# You have anointed my head with oil; <br> My cup overflows.
 [Psalm 23:5b (NASB)](# "caption")
 
 ***
-## Surely goodness and loving kindness <br> will follow me all the days of my life,
+# Surely goodness and loving kindness <br> will follow me all the days of my life,
 [Psalm 23:6a (NASB)](# "caption")
 
 ***
-## And I will dwell in the house of the Lord forever.
+# And I will dwell in the house of the Lord forever.
 [Psalm 23:6b (NASB)](# "caption")
